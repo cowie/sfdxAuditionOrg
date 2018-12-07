@@ -2,7 +2,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/applications",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/applications",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/applications/Open_Auditions.app-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/applications/Open_Auditions.app-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -77,7 +77,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/brandingSets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/brandingSets",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/brandingSets/LEXTHEMINGCirrus.brandingSet-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/brandingSets/LEXTHEMINGCirrus.brandingSet-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -122,7 +122,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/cirrusicononlylarge.asset",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/cirrusicononlylarge.asset",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/cirrusicononlylarge.asset-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/cirrusicononlylarge.asset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -167,7 +167,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/folio05.asset",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/folio05.asset",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/folio05.asset-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/contentassets/folio05.asset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -197,7 +197,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages/Candidate_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages/Candidate_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -227,7 +227,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages/Open_Auditions_UtilityBar.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages/Open_Auditions_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -242,7 +242,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/Audition_Project__c-Audition Project Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/Audition_Project__c-Audition Project Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -272,7 +272,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/Candidate__c-Candidate Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/Candidate__c-Candidate Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -287,7 +287,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/Title__c-Title Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/Title__c-Title Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -302,7 +302,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/lightningExperienceThemes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/lightningExperienceThemes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -317,7 +317,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/lightningExperienceThemes/Cirrus.lightningExperienceTheme-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/lightningExperienceThemes/Cirrus.lightningExperienceTheme-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -332,7 +332,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Audition_Project__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Audition_Project__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -362,7 +362,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Audition_Project__c/Audition_Project__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Audition_Project__c/Audition_Project__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -377,7 +377,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/Candidate__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/Candidate__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -407,7 +407,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -422,7 +422,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Email_Address__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Email_Address__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -437,7 +437,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/First_Name__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/First_Name__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -452,7 +452,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Last_Name__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Last_Name__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -467,7 +467,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Status__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Status__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -482,7 +482,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Twitter_Handle__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Twitter_Handle__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -497,7 +497,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Video_ID__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/fields/Video_ID__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -512,7 +512,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -527,7 +527,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Candidate__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -542,7 +542,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -557,7 +557,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c/Title__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c/Title__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -572,7 +572,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -587,7 +587,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c/listViews/All.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/Title__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -602,7 +602,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/pathAssistants",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/pathAssistants",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -617,7 +617,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/pathAssistants/Audition_Path.pathAssistant-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/pathAssistants/Audition_Path.pathAssistant-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -632,7 +632,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -647,7 +647,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -662,7 +662,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -677,7 +677,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -692,7 +692,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -707,7 +707,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -722,7 +722,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/tabs/Candidate__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/tabs/Candidate__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -737,7 +737,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/tabs/Title__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/tabs/Title__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -752,7 +752,7 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg",
             "isDirectory": true,
             "isMetadataFile": false,

@@ -1,4 +1,6 @@
-# SFDX  App
+# Video Audition SFDX/Heroku App
+
+
 
 This is the sfdc side of the audition application located here: https://github.com/cowie/auditionFormApp 
 
@@ -21,7 +23,9 @@ Fields: Email_Address__c, First_Name__c, Last_Name__c, Twitter_Handle__c, Video_
 
 6) Write Database Updates to Salesforce using *video_ID__c* as the unique identifier - CHECKED.
 
-5) Now you good. 
+7) Alright get back to ya SFDX scratch org. Create a new remote site setting to allow showing off your heroku app. Put in https://YOUR-APP-HERE.herokuapp.com and you'll be golden here.
+
+8) Now you do you.
  
 Open your heroku app's main page ('/') and hit the record button. Make a dumb video, and then when it finishes verifying, the button for the submit will activate. Punch in some details, esp Email (unique) and hit submit. Then flip to your SF app and find the record in your Candidate table.
 
