@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>Candidate__c</entityName>
+    <fieldName>Status__c</fieldName>
+    <masterLabel>Audition Path</masterLabel>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Automatically notified head of everything to check this person out. They&amp;#39;re goin places.&lt;/p&gt;</info>
+        <picklistValueName>A-List</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Initial approvals are good, assigned to someone big to validate.&lt;/span&gt;&lt;/p&gt;</info>
+        <picklistValueName>Callback</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>Name</fieldNames>
+        <fieldNames>OwnerId</fieldNames>
+        <info>&lt;p&gt;Await for automatic vision API to identify valid submission&lt;/p&gt;</info>
+        <picklistValueName>New Audition</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;This person is now available for work&lt;/span&gt;&lt;/p&gt;</info>
+        <picklistValueName>Second Callback</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>OwnerId</fieldNames>
+        <info>&lt;p&gt;This is a confirmed valid entry. Awaiting initial review.&lt;/p&gt;&lt;p&gt;Please watch the video and add your review notes.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</info>
+        <picklistValueName>Valid Entry, Awaiting Review</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>__MASTER__</recordTypeName>
+</PathAssistant>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Status__c</fullName>
+    <externalId>false</externalId>
+    <label>Status</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>New Audition</fullName>
+                <default>false</default>
+                <label>New Audition</label>
+            </value>
+            <value>
+                <fullName>Valid Entry, Awaiting Review</fullName>
+                <default>false</default>
+                <label>Valid Entry, Awaiting Review</label>
+            </value>
+            <value>
+                <fullName>Callback</fullName>
+                <default>false</default>
+                <label>Callback</label>
+            </value>
+            <value>
+                <fullName>Second Callback</fullName>
+                <default>false</default>
+                <label>Second Callback</label>
+            </value>
+            <value>
+                <fullName>A-List</fullName>
+                <default>false</default>
+                <label>A-List</label>
+            </value>
+            <value>
+                <fullName>Rejected</fullName>
+                <default>false</default>
+                <label>Rejected</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
