@@ -779,10 +779,10 @@
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1057,
-            "modifiedTime": 1544217365566,
-            "changeTime": 1544217365566,
-            "contentHash": "0f392de060d1cce989b1429ba3e59256c22d1bfa"
+            "size": 993,
+            "modifiedTime": 1544217074735,
+            "changeTime": 1544217074735,
+            "contentHash": "a3a505be4785e960f2b62468fe0d3657af2e4fb6"
         }
     ],
     [
@@ -840,14 +840,14 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 813,
             "modifiedTime": 1544216957744,
             "changeTime": 1544216957744,
-            "contentHash": "0531eac94c4ec61a2361b6683bd816cb34f49326",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0531eac94c4ec61a2361b6683bd816cb34f49326"
         }
     ],
     [
@@ -918,14 +918,14 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes/cdgAuditionHelper.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes/cdgAuditionHelper.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 181,
             "modifiedTime": 1544216789174,
             "changeTime": 1544216789174,
-            "contentHash": "a91f8808f821af32578d0579d63c6a98bbde24d4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a91f8808f821af32578d0579d63c6a98bbde24d4"
         }
     ],
     [

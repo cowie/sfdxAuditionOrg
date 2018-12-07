@@ -14,7 +14,9 @@
     
     <div class="embedHolder" style="text-align:center;">
 <lightning:card footer="" title="Audition">
-    <center><iframe width="560" height="315" src="{!v.herokuDomain + '/player/'+ v.simpleRecord.Video_ID__c}" frameborder="0" allow="autoplay; encrypted-media"></iframe></center>
+    <center> <div id="frameHolder"></div>
+        <iframe width="560" height="315" src="'https://cdg-audbuttestwhee.herokuapp.com/player/'+ v.simpleRecord.Video_ID__c}" frameborder="0" allow="autoplay; encrypted-media"></iframe>
+    </center>
 </lightning:card>
     </div>
 </aura:component>

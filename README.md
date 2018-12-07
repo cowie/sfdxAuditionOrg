@@ -23,7 +23,7 @@ Fields: Email_Address__c, First_Name__c, Last_Name__c, Twitter_Handle__c, Video_
 
 6) Write Database Updates to Salesforce using *video_ID__c* as the unique identifier - CHECKED.
 
-7) Alright get back to ya SFDX scratch org. Create a new remote site setting to allow showing off your heroku app. Put in https://YOUR-APP-HERE.herokuapp.com and you'll be golden here.
+7) Ok - go into the cdgEmbedViewer.cmp and change the domain on the iframe to your heroku domain. I was gonna automate this but got tired.
 
 8) Now you do you.
  
