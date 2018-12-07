@@ -32,16 +32,14 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default",
             "isDirectory": true,
-            "size": 416,
-            "modifiedTime": 1544202963278,
-            "changeTime": 1544202963278,
-            "contentHash": "a445f9c376a7dd972093966808a55c2e2f25982e",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 480,
+            "modifiedTime": 1544216730019,
+            "changeTime": 1544216730019,
+            "contentHash": "01fbfcccb979c236d5541e400e3c98be68c679b6"
         }
     ],
     [
@@ -77,15 +75,15 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544215541332,
             "changeTime": 1544215541332,
-            "isWorkspace": false,
-            "contentHash": "98738c50f1a91377e86dd1588bde4be1f024664e"
+            "contentHash": "98738c50f1a91377e86dd1588bde4be1f024664e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -211,16 +209,14 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages/Candidate_Record_Page.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/flexipages/Candidate_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 4872,
-            "modifiedTime": 1544202963128,
-            "changeTime": 1544202963128,
-            "contentHash": "bac61d5f4cca526798df9a6e1ced5acdfb48275c",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 4989,
+            "modifiedTime": 1544216729743,
+            "changeTime": 1544216729743,
+            "contentHash": "94bd3350fd478cca410a9f25faa4e39cc5ecdf21"
         }
     ],
     [
@@ -241,16 +237,14 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1544202963112,
-            "changeTime": 1544202963112,
-            "contentHash": "e9b250bf29686b70c207d9627aa4e8c0172d3596",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1544216729703,
+            "changeTime": 1544216729703,
+            "contentHash": "a6f49d9b99b3a0c163d38b874dabab6361158c56"
         }
     ],
     [
@@ -331,16 +325,14 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1544202963077,
-            "changeTime": 1544202963077,
-            "contentHash": "100628be51eb77a67411e03ffd43a2406f17084b",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1544216729688,
+            "changeTime": 1544216729688,
+            "contentHash": "442a642342a4e6c84dbea6732b952130ddab290f"
         }
     ],
     [
@@ -646,61 +638,53 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 20422,
-            "modifiedTime": 1544202963176,
-            "changeTime": 1544202963176,
-            "contentHash": "7a862c39da05ff63563bf741fdece8a7a1df226a",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 20660,
+            "modifiedTime": 1544216729882,
+            "changeTime": 1544216729882,
+            "contentHash": "776e4795502c46c6688277a083bfdd5279098a87"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5878,
-            "modifiedTime": 1544202963212,
-            "changeTime": 1544202963212,
-            "contentHash": "ead88fc6d6426cb9beee0ad6f9806f77e5e04662",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 6117,
+            "modifiedTime": 1544216729966,
+            "changeTime": 1544216729966,
+            "contentHash": "7ea1b118227020999b534e6f8bf36f0825ea8ab9"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5878,
-            "modifiedTime": 1544202963228,
-            "changeTime": 1544202963228,
-            "contentHash": "ead88fc6d6426cb9beee0ad6f9806f77e5e04662",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 6117,
+            "modifiedTime": 1544216730007,
+            "changeTime": 1544216730007,
+            "contentHash": "7ea1b118227020999b534e6f8bf36f0825ea8ab9"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6216,
-            "modifiedTime": 1544202963190,
-            "changeTime": 1544202963190,
-            "contentHash": "7f173ff7a9d52f405a86ee46ef8c9764b2289e5f",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 6455,
+            "modifiedTime": 1544216729948,
+            "changeTime": 1544216729948,
+            "contentHash": "79d4cbe4add98d2e4b26ce64d7394805868a5708"
         }
     ],
     [
@@ -751,145 +735,249 @@
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1544214860427,
             "changeTime": 1544214860427,
-            "isWorkspace": true,
-            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0"
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1544215541338,
             "changeTime": 1544215541338,
-            "contentHash": "08fdaa99a1a8f1c6ade40d419b32f7036c4d002c"
+            "contentHash": "08fdaa99a1a8f1c6ade40d419b32f7036c4d002c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1544215541337,
             "changeTime": 1544215541337,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.cmp",
             "isDirectory": false,
+            "size": 861,
+            "modifiedTime": 1544216639325,
+            "changeTime": 1544216639325,
+            "contentHash": "1c26664995469069c9e7ec6b3512e8779b860724",
             "isMetadataFile": false,
-            "size": 870,
-            "modifiedTime": 1544215656883,
-            "changeTime": 1544215656883,
-            "contentHash": "2926488d086a185cb6c99c880c512922781a762f"
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1544215541333,
             "changeTime": 1544215541333,
-            "contentHash": "55c3033d1869ac3d7677d4dde4364be5e19b1469"
+            "contentHash": "55c3033d1869ac3d7677d4dde4364be5e19b1469",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.css",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1544215541335,
             "changeTime": 1544215541335,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.design",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1544215541339,
             "changeTime": 1544215541339,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewer.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1544215541336,
             "changeTime": 1544215541336,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 474,
             "modifiedTime": 1544215657880,
             "changeTime": 1544215657880,
-            "contentHash": "f116c5dc2dee25d8ad3c40f17f35dde49397a379"
+            "contentHash": "f116c5dc2dee25d8ad3c40f17f35dde49397a379",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1544215541334,
             "changeTime": 1544215541334,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/aura/cdgEmbedViewer/cdgEmbedViewerRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1544215541335,
             "changeTime": 1544215541335,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/cdgAuditionApp__mdt/cdgAuditionApp__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/cdgAuditionApp__mdt/cdgAuditionApp__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 234,
+            "modifiedTime": 1544216729695,
+            "changeTime": 1544216729695,
+            "contentHash": "36c0f967b7a812d73945e56dc2f20906bfdbafba"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/cdgAuditionApp__mdt-cdgAuditionApp Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/layouts/cdgAuditionApp__mdt-cdgAuditionApp Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2199,
+            "modifiedTime": 1544216729704,
+            "changeTime": 1544216729704,
+            "contentHash": "847b37ab6c39dd7023e20a34d3320d16c465977b"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes/cdgAuditionHelper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes/cdgAuditionHelper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544216729754,
+            "changeTime": 1544216729754,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes/cdgAuditionHelper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes/cdgAuditionHelper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1544216729767,
+            "changeTime": 1544216729767,
+            "contentHash": "895a1614dce3c6961240b0f957ccf1a2d08756a6"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/customMetadata/cdgAuditionApp.https_cdg_audbuttestwhee_herokuapp_com.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/customMetadata/cdgAuditionApp.https_cdg_audbuttestwhee_herokuapp_com.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1544216730022,
+            "changeTime": 1544216730022,
+            "contentHash": "610342ad77a49541b2c19c97fad03b5432840696"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/cdgAuditionApp__mdt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/objects/cdgAuditionApp__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544216729691,
+            "changeTime": 1544216729691,
+            "contentHash": "1eca2576269bfc0bcb5681bee34548a159bb460a"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544216729766,
+            "changeTime": 1544216729766,
+            "contentHash": "8e49ee1e1b0f41de5bc3ee4b97a55fb13e140a2e"
+        }
+    ],
+    [
+        "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cdegour/Workspaces/auditionOrg/auditionOrg/force-app/main/default/customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544216730021,
+            "changeTime": 1544216730021,
+            "contentHash": "d305d26457d38baaafdbf80fc817b3b1258a2c32"
         }
     ]
 ]

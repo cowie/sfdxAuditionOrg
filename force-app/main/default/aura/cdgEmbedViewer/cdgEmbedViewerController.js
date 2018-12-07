@@ -13,5 +13,14 @@
         });
         player.activate();
     };
-	}
+    }, 
+    doInit: function(component, event, helper){
+        var action = component.get("c.getHerokuURL");
+        action.setCallback(this, function(response){
+            if(state === "SUCCESS"){
+                component.set("v.herokuDomain", response.getReturnValue());
+            }
+        });
+        $A.enqueueAction(action);
+    }
 })

@@ -5,6 +5,10 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>cdgAuditionHelper</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -39,6 +43,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Title__c-Title Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>cdgAuditionApp__mdt-cdgAuditionApp Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>Candidate__c</tab>
